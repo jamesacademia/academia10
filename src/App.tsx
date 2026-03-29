@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react'; // Removed 'React,' from here
 import './App.css';
 
 /* --- 1. SVG Icons --- */
